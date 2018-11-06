@@ -1,7 +1,7 @@
 # Markdown
 
 > [Wiki](https://en.wikipedia.org/wiki/Markdown)
-> Markdown is a lightweight markup language with plain text formatting syntax
+> Markdown is a lightweight markup language with plain text formatting syntax.
 
 ## Syntax
 
