@@ -1,3 +1,5 @@
+[TOC]
+
 # Markdown
 
 > [Wiki](https://en.wikipedia.org/wiki/Markdown)
