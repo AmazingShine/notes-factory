@@ -27,8 +27,6 @@
 
 
 
-
-
 [1]: http://wowubuntu.com/markdown/
 [2]: https://www.typora.io/
 [3]: http://markdownpad.com/

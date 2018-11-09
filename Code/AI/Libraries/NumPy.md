@@ -6,6 +6,8 @@
 ## Official
 
 - [Web](http://www.numpy.org/)
+- Documentation
+    - [NumPy basics](https://www.numpy.org/devdocs/user/basics.html)
 
 ## Tutorials
 - [Quickstart tutorial](https://www.numpy.org/devdocs/user/quickstart.html)
@@ -39,13 +41,21 @@
     np.random.random((3,3))
     # create sequences
     np.arange(10,30,5)  # start end step
-    np.linspace(0,2,9) # start end total
+    np.linspace(0,2,9) # start end total step
     # reshap
     np.arange(15).
     ```
 - Indexing, Slicing and Iterating
     - dots (...) represent as many colons
         - `x[1,2,...]` is equivalent to `x[1,2,:,:,:]`,
+    - Indexing with Arrays of Indices
+    ```python
+    a = np.arange(12)**2    #broadcasting
+    i = np.array([[3,4],[9,7]])
+    >>> a[j]    # the same shape as j
+    >>> array([[ 9, 16],
+        [81, 49]])
+    ```
 - Shape Manipulation
     -  `a.ravel()  # returns the array, flattened`
     -  `a.reshape(3,5) # returns the array with a modified shape`

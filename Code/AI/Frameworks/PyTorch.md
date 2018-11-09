@@ -19,3 +19,10 @@
 ## Tutorials
 
 - [PyTorch Tutorials](https://pytorch.org/tutorials/)
+
+## Notes
+
+- torchvision.transforms
+    - `transforms.toTensor` - transform ndarray or image (H,W,C) to tensor (C,H,W),then Normlized to [0,1]
+    - `transfors.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))` - distribute each element to [-1,1]
+    
