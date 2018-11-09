@@ -15,4 +15,4 @@
 
 ## Miscellaneous
 
-- [Greek Alphabet](https://www.zybang.com/question/2670d80fe4661dab7587840393ae2854.html)
+- [Greek Alphabet](https://www.zybang.com/question/2670d80fe4661dab7587840393ae2854.html) - Pronumciation Table

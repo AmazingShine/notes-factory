@@ -38,5 +38,6 @@
     - CoffeeScript
 - **Mobile Application Development**
     - React Native
+- **WeChat Application Development**
 - **Dektop Application Development**
     - Electron

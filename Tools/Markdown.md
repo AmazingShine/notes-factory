@@ -1,14 +1,13 @@
-[TOC]
-
 # Markdown
 
 > [Wiki](https://en.wikipedia.org/wiki/Markdown)
 > Markdown is a lightweight markup language with plain text formatting syntax.
 
-## Syntax
+## Tutorials
 
 - [Markdown 语法说明 (简体中文版)][1]
 - [VSCode Plugin - Markdown Preview Enhanced][7]
+- [Markdown 语法整理大集合2017](https://www.jianshu.com/p/b03a8d7b1719)
 
 ## Editor (Windows)
 
@@ -22,6 +21,10 @@
 - [12 款 Markdown 写作工具推荐][4]
 - [让你爱上写作的 11 款 Markdown 工具][5]
 - `TODO` [Sublime + Plugins][6] 
+
+***
+## Notes
+
 
 
 
