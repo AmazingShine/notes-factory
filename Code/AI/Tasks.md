@@ -35,6 +35,8 @@
 
 
 ## Machine Learning
+- Documents
+    - [x] [DEEP LEARNING WITH PYTORCH](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 - Videos
     - [ ] [Machine learning tutorials By Andrew Ng](https://study.163.com/course/courseMain.htm?courseId=1004570029)
 - Books
@@ -47,3 +49,4 @@
     - [ ] [RL](http://karpathy.github.io/2016/05/31/rl/)
 - PDFS
     - [ ] [Deep Learning Tutorial By Hung-yi Lee](../../Assets/PDF/deeplearningtutorials.pdf)
+    - [ ] [机器学习小抄-Chris+Albon](../../Assets/PDF/机器学习小抄-Chris+Albon.pdf)
