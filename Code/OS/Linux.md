@@ -18,3 +18,8 @@
 
     - || 表示上一条命令执行失败后，才执行下一条命令，如 cat nofile || echo "fail"2 
 - grep（global search regular expression(RE) and print out the line，全面搜索正则表达式并把行打印出来）
+
+## Notes
+
+- [OpenSSH](https://linux.linuxidc.com/index.php?folder=MjAxNMTq18rBzy8y1MIvMTTI1S9XaW5kb3dzIDfD/MHu0NDPwsq508NTU0jNqLn9w9jUv7XHwrxMaW51eA==)
+    - 用于window 连接 linux
