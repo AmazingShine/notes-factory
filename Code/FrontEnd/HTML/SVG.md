@@ -8,3 +8,7 @@
 ## Tutorial
 
 - [线条之美，玩转SVG线条动画](https://www.nihaoshijie.com.cn/index.php/archives/667/)
+
+## Tips
+
+- SVG LOADER -> 'svg-inline-loader'

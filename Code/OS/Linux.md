@@ -21,5 +21,11 @@
 
 ## Notes
 
-- [OpenSSH](https://linux.linuxidc.com/index.php?folder=MjAxNMTq18rBzy8y1MIvMTTI1S9XaW5kb3dzIDfD/MHu0NDPwsq508NTU0jNqLn9w9jUv7XHwrxMaW51eA==)
-    - 用于window 连接 linux
+- linux 任务执行ssh脚本需在.sh文件添加执行命令中的路径，比如执行java就需添加
+```bash
+export JAVA_HOME=/home/ubuntu/java/jdk1.8.0_181
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
+export LANG=zh_CN.gbk
+```
+
