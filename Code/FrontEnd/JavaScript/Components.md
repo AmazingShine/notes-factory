@@ -10,6 +10,12 @@ A flowchart is a type of diagram that represents an algorithm, workflow or proce
 
 ### Test
 
+### Effects
+
+- [Animate.css](https://github.com/daneden/animate.css) - 纯css动画库
+- [Parallax.js](https://github.com/wagerfield/parallax) - 视差动画
+
+
 ### `TODO`
 
 - [Echarts]

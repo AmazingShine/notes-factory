@@ -11,3 +11,12 @@
     }
     },
     ```
+- vue渲染完毕再显示页面
+    ```html
+    <div id='app' v-cloak>
+    ```
+    ```css
+    [v-cloak] {
+        display: none;
+    }
+    ```

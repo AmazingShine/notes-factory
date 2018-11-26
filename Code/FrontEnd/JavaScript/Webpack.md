@@ -2,6 +2,9 @@
 
 ## Notes
 
+- json自动编译 不需要json-loader
+- "npm i imports-loader -D" - The imports loader allows you to use modules that depend on specific global variables.
+
 ### My Steps
 
 1. npm init
