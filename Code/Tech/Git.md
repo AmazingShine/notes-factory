@@ -16,3 +16,10 @@
 
 ## Notes
 
+- 清除缓存
+  ```shell
+  git rm -r --cached .
+  git add .
+  git commit -m 'update .gitignore'
+  ```
+
