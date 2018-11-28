@@ -10,6 +10,8 @@ A flowchart is a type of diagram that represents an algorithm, workflow or proce
 
 ### Test
 
+- [jest](https://jestjs.io/en/) - unit test
+
 ### Effects
 
 - [Animate.css](https://github.com/daneden/animate.css) - 纯css动画库

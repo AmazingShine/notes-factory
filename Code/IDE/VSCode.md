@@ -36,3 +36,24 @@ Preferences : Configure User Snippets
 
 <https://code.visualstudio.com/docs/editor/userdefinedsnippets>
 
+## Notes
+
+### hot key
+
+- common
+```
+> 移动到下一个括号 ctrl+shift+\
+> 选择下一个匹配 ctrl+d
+> 选择所有匹配  Ctrl+Shift+L
+> 查找文件 ctrl+p
+> 折叠区域 Ctrl+Shift+[
+> 展开区域 Ctrl+Shift+]
+> 树层级折叠 Ctrl+K Ctrl+[
+> 树层级展开 Ctrl+K Ctrl+]
+> 展开选择 Shift + Alt + →
+> 缩小选择 Shift + Alt + ←
+> 转到定义 F12
+> 快速解决 Ctrl + .
+> 多行注释 alt+shift+a
+```
+
