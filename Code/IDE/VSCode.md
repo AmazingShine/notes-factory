@@ -29,6 +29,8 @@
 
 - [Markdown All in one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need for Markdown (keyboard shortcuts, table of contents, auto preview and more).
 
+- [Run Code] - run code in vscode
+
 
 ## Snippets
 
