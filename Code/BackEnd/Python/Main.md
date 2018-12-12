@@ -15,3 +15,7 @@ for x in a:
 # 结果 a 和 b 不同
 ```
 
+### 内置函数
+
+- python3 filter返回 filter 对象,需要用list()转换
+
