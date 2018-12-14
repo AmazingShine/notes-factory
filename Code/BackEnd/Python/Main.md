@@ -19,6 +19,11 @@ for x in a:
 
 - python3 filter返回 filter 对象,需要用list()转换
 
+### 多线程
+
+- ai程序可以用多线程也可以用socket
+
+
 
 #### 代码
 
