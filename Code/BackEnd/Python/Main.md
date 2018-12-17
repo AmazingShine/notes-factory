@@ -23,9 +23,16 @@ for x in a:
 
 - ai程序可以用多线程也可以用socket
 
+### BUG
+- 栈溢出
+```python
+# 递归层数太多
+import sys
+sys.setrecursionlimit(1000000)
+```
 
 
-#### 代码
+### 代码
 
 - 经过深度思考的代码
 ```python
