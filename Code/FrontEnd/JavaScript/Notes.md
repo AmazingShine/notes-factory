@@ -157,3 +157,39 @@ if (flags & FLAG_C) {
 - `console.group`分组
 - `console.count`计数
 - `console.time`和`console.timeEnd`计时
+
+#### BOM
+
+-如果将脚本放在页面底部，就可以完全按照正常的方式写，不需要`DOMContentLoaded`
+
+#### Node
+- textContent属性自动忽略当前节点内部的 HTML 标签，返回所有文本内容。
+
+该属性是可读写的，设置该属性的值，会用一个新的文本节点，替换所有原来的子节点。它还有一个好处，就是自动对 HTML 标签转义。这很适合用于用户提供的内容。
+
+`document.getElementById('foo').textContent = '<p>GoodBye!</p>';`
+上面代码在插入文本时，会将`<p>`标签解释为文本，而不会当作标签处理。
+
+#### Stdlib
+
+- 如果参数对象有自定义的toJSON方法，那么JSON.stringify会使用这个方法的返回值作为参数，而忽略原对象的其他属性。
+```javascript
+var user = {
+  firstName: '三',
+  lastName: '张',
+
+  get fullName(){
+    return this.lastName + this.firstName;
+  },
+
+  toJSON: function () {
+    return {
+      name: this.lastName + this.firstName
+    };
+  }
+
+
+JSON.stringify(user)
+// "{"name":"张三"}"
+};
+```
